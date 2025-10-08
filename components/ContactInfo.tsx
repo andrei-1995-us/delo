@@ -30,7 +30,7 @@ const ContactInfo = () => {
     {
       icon: MapPin,
       title: 'Адрес',
-      value: 'Москва, Россия',
+      value: 'Лялин пер., 12-14, Москва, 105064',
       description: 'Наш офис',
       link: '#',
       color: 'from-purple-500 to-violet-600'
