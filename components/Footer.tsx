@@ -133,22 +133,21 @@ const Footer = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <h4 className="text-lg font-semibold mb-6">Контакты</h4>
-            <div className="space-y-4">
-              <div className="flex items-center space-x-3">
-                <Phone className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">+7 (993) 287-12-78</span>
+            <div className="space-y-3">
+              <div>
+                <span className="font-semibold text-white">+7 (993) 287-12-78</span>
               </div>
-              <div className="flex items-center space-x-3">
-                <Mail className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">alekrandrgrfg@gmail.com</span>
+              <div>
+                <span className="text-gray-300">ООО "Дело"</span>
               </div>
-              <div className="flex items-center space-x-3">
-                <MapPin className="w-5 h-5 text-primary-400" />
-                <span className="text-gray-300">Лялин пер., 12-14, Москва, 105064</span>
-              </div>
-              <div className="flex items-center space-x-3">
-                <FileText className="w-5 h-5 text-primary-400" />
+              <div>
                 <span className="text-gray-300">ИНН: 5507304580</span>
+              </div>
+              <div>
+                <span className="text-gray-300">ОГРН: 1255500011733</span>
+              </div>
+              <div>
+                <span className="text-gray-300">Деятельность по проведению финансового аудита</span>
               </div>
             </div>
           </motion.div>
