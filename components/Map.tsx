@@ -52,7 +52,7 @@ const Map = () => {
                 <MapPin className="w-10 h-10 text-white" />
               </motion.div>
               <h3 className="text-2xl font-bold text-gray-900 mb-2">
-                Москва, Россия
+                Лялин пер., 12-14, Москва, 105064
               </h3>
               <p className="text-gray-600 mb-4">
                 Центральный офис ООО Дело (скоро)
@@ -76,7 +76,7 @@ const Map = () => {
                   <MapPin className="w-6 h-6 text-green-600" />
                 </div>
                 <h4 className="font-semibold text-gray-900 mb-2">Адрес</h4>
-                <p className="text-gray-600">Москва, Россия</p>
+                <p className="text-gray-600">Лялин пер., 12-14, Москва, 105064</p>
               </div>
               
               <div className="text-center">
