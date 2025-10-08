@@ -54,7 +54,7 @@ const ContactHero = () => {
     {
       icon: MapPin,
       title: 'Адрес',
-      value: 'Москва, Россия',
+      value: 'Лялин пер., 12-14, Москва, 105064',
       link: '#'
     },
     {
